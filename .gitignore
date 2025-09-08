@@ -1,3 +1,9 @@
 # Ignore virtual environment directories
 venv/
 .venv/
+
+# Temporary files by extension
+~$*
+
+# ignore ds_store
+.DS_Store
